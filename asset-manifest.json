@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/youth_india_frontEnd/static/css/main.d8ae9ed6.css",
+    "main.js": "/youth_india_frontEnd/static/js/main.aca9a14d.js",
+    "static/js/787.ab378faf.chunk.js": "/youth_india_frontEnd/static/js/787.ab378faf.chunk.js",
+    "static/media/logo.svg": "/youth_india_frontEnd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/youth_india_frontEnd/index.html",
+    "main.d8ae9ed6.css.map": "/youth_india_frontEnd/static/css/main.d8ae9ed6.css.map",
+    "main.aca9a14d.js.map": "/youth_india_frontEnd/static/js/main.aca9a14d.js.map",
+    "787.ab378faf.chunk.js.map": "/youth_india_frontEnd/static/js/787.ab378faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ae9ed6.css",
+    "static/js/main.aca9a14d.js"
+  ]
+}
