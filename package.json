@@ -1,7 +1,7 @@
 {
     "name": "pokemon",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "homepage": "https://imuk23.github.io/youth_india_frontEnd/",
     "dependencies": {
         "@material-ui/core": "^4.12.4",
